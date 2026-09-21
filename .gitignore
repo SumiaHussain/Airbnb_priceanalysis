@@ -20,6 +20,10 @@
 
 # RStudio files
 .Rproj.user/
+listings_lndn.csv
+calendar_lndn.csv
+calendar_ist.csv
+listings_ist.csv
 
 # produced vignettes
 vignettes/*.html
